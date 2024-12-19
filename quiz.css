@@ -1,0 +1,31 @@
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:4px solid black;
+    border-radius: 10px;
+}
+.nxtbtn{
+    background-color: rgb(55, 50, 159);
+    border-radius: 10px;
+    height:25px;
+    width:120px;
+    color:white;
+}
+.nxtbtn:hover{
+    background-color: lightblue;
+    color:blue;
+}
+
+.prvbtn{
+    background-color: rgb(55, 50, 159);
+    border-radius: 10px;
+    height:25px;
+    width:150px;
+    color:white;
+}
+
+.prvbtn:hover{
+    background-color: lightblue;
+    color:blue;
+}
